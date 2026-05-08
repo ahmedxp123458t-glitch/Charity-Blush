@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:53:27	460/460	---M--	200	added ('OK')	text/html	etag:%22954f1a9b68c5bd9968cff7b15f8b2964%22	https://charityblush.vercel.app/	D:/Charity%20Blush/charityblush.vercel.app/index.html	(from )
+16:53:27	1476/1476	---MCZ	404	error ('Not%20Found')	text/html	date:Fri,%2008%20May%202026%2015:53:27%20GMT	https://charityblush.vercel.app/robots.txt		(from )
+16:53:28	1501/1501	---MCZ	200	added ('OK')	image/svg+xml	etag:W/%228b57261f10144bcc0324bd4d83a4cd52%22	https://charityblush.vercel.app/vite.svg	D:/Charity%20Blush/charityblush.vercel.app/vite.svg	(from https://charityblush.vercel.app/)
+16:53:29	376706/376706	---MCZ	200	added ('OK')	application/javascript	etag:W/%22d20dd204719527d86e9ce131a9f7a946%22	https://charityblush.vercel.app/assets/index-hu71iaDb.js	D:/Charity%20Blush/charityblush.vercel.app/assets/index-hu71iaDb.js	(from https://charityblush.vercel.app/)
+16:53:30	49616/49616	---MCZ	200	added ('OK')	text/css	etag:W/%222fb9158a6437c887a471a0fd0c27f7c1%22	https://charityblush.vercel.app/assets/index-Ejk6Anwy.css	D:/Charity%20Blush/charityblush.vercel.app/assets/index-Ejk6Anwy.css	(from https://charityblush.vercel.app/)
